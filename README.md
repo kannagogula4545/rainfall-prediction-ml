@@ -176,4 +176,4 @@ PIET, Parul University, Vadodara
 
 ## 📄 License
 
-This project was developed as a B.Tech final year project (2025) at Parul University. For academic use only.
+This project was developed as a B.Tech final year project (2026) at Parul University. For academic use only.
